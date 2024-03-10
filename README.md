@@ -1,5 +1,6 @@
 <img src="Covid.png" width="250" height="250">
 <p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>South Korea COVID-19 data Analysis</p>
+<p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>South Korea COVID-19 data Analysis</p>
 <br>
 
 <a id="0"></a>
