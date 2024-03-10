@@ -2,6 +2,7 @@
 <p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>South Korea COVID-19 data Analysis</p>
 <br>
 <p An analysis of the COVID-19 data from South Korea is presented in the COVID-19 data Analysis.ipynb notebook.</p>
+ <br>
 <a id="0"></a>
  ### [Table of Contents](0)
 1. [Project Introduction](#1)      
