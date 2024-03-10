@@ -20,7 +20,7 @@
     
     
 
-#### [Notebook by Mažvydas Brikas](https://www.linkedin.com/in/mazvydas-brikas/)      <br>[Turing College](https://www.turingcollege.com/)
+#### [Notebook by Mažvydas Brikas](https://www.linkedin.com/in/mazvydas-brikas/)      
 
 <a id="1"></a> 
 # 1. Project Introduction
